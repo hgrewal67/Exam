@@ -1,0 +1,259 @@
+   80  git pull --no-edit
+   81  git push origin master
+   82  git branch v0.0.1
+   85  git branch (v0.0.1)
+   86  git checkout v0.0.1
+   90  git add v0.0.1
+   91  git add
+   92  git add index.html
+   95  git add index1.html
+   96  git commit -m "v0.0.1 branch"
+   97  git push origin master
+   98  git add index1.html
+   99  git commit -m "what is this"
+  100  git branch
+  101  git push origin master
+  124  mkdir git
+  125  cp ~/index.html ~/Desktop/git
+  126  cd git
+  131  cp style.css ~/git
+  132  cp js.js ~/desktop/git
+  133  cp style.css ~/desktop/git
+  135  cd ~/git
+  136  cd ~/desktop/git
+  137  git clone https://github.com/hgrewal67/NewRepository
+  141  git add js img css
+  142  git commit -m "Added dir"
+  143  git push origin master
+  144  git add js 
+  145  git commit -m "added js"
+  146  git push origin master
+  147  cd ~/desktop/git
+  148  git clone https://github.com/hgrewal67/NewRepository
+  153  cd ~/desktop/git/NewRepository
+  156  cd ~/desktop/git/NewRepository
+  159  cd ~/desktop/git/NewRepository
+  160  git add js img css
+  161  git commit -m "Added dir"
+  162  git push origin master
+  164  cd ~/desktop/git
+  165  git clone https://github.com/hgrewal67/NewRepository
+  170  cd ~/desktop/git/NewRepository
+  173  cd ~/desktop/git/NewRepository
+  176  cd ~/desktop/git/NewRepository
+  177  git add js img css
+  178  git commit -m "Added dir"
+  179  git push origin master
+  183  cp ~/index1.html ~/git/NewRepository
+  184  cp ~/index1.html ~/Desktop/git/NewRepository
+  185  cd git
+  186  cd ~/git
+  187  cd ~/desktop/git
+  190  cd ~/desktop/git
+  191  cp index.html ~/desktop/git/NewRepository
+  194  cd ~/desktop/git
+  195  cp index1.html ~/desktop/git/NewRepository
+  196  cp index2.html ~/desktop/git/NewRepository
+  197  cp index3.html ~/desktop/git/NewRepository
+  198  cd ~/desktop/git
+  200  mv style.css ~/desktop/git/NewRepository
+  201  mv js.js ~/desktop/git/NewRepository
+  202  cd ~/desktop/git
+  204  mv delete1.css delete2.js ~/desktop/git/NewRepository
+  206  mv delete1.css delete2.js ~/desktop/git
+  207  mv delete1.css delete2.js ~/desktop/git
+  211  cd git
+  214  cd ~/desktop/git
+  215  cp index1.html index2.html index3.html ~/desktop/git/NewRepository
+  217  mv style.css ~/desktop/git/NewRepository/css
+  218  mv js.js ~/desktop/git/NewRepository/js
+  219  git status
+  221  git status
+  222  git add
+  223  git add .
+  224  git commit -m "New changes"
+  225  git push origin master
+  226  git pull --no-edit
+  227  git add .
+  228  git add .
+  229  git add .
+  230  git commit -m "new changes"
+  231  git pull
+  232  git push origin master
+  234  cd ~/desktop/git
+  235  cp index1.html index2.html index3.html ~/desktop/git/NewRepository
+  237  mv style.css ~/desktop/git/NewRepository/css
+  238  mv js.js ~/desktop/git/NewRepository/js
+  240  git status
+  241  git add .
+  242  git commit -m "New changes"
+  243  git pull --no-edit
+  244  git push origin master
+  255  cd ~/desktop/git/NewRepository
+  257  git add index1.html
+  258  git commit -m "edited title"
+  259  git push origin master
+  260  git branch v0.0.1
+  261  git checkout v0.0.1
+  264  git add .
+  265  git commit -m "New branch"
+  266  git push origin master
+  267  git push origin v0.0.1
+  269  git checkout master
+  271  git checkout master
+  277  git checkout master
+  278  git checkout master
+  283  cp *img ~/desktop/git/NewRepository
+  285  cp *.img ~/desktop/git/NewRepository
+  287  cp *png ~/desktop/git/NewRepository
+  288  cp *png ~/desktop/git/NewRepository/img
+  290  cp *png ~/desktop/git/NewRepository/img
+  291  git add .
+  292  cd git/NewRepository
+  293  git add .
+  294  git commit -m "added images"
+  295  git pull --no-edit
+  296  git push origin master
+  297  git checkout v0.0.1
+  298  git merge master
+  300  git add .
+  301  git commit -m "added images"
+  302  git pull --no-edit
+  303  git push origin v0.0.1
+  309  find ~/desktop/git -name "*.png"
+  310  find ~/desktop/git -name "*.html"
+  312  cp git gitbackup
+  313  cpdir git gitbackup
+  314  cp ~git ~gitbackup
+  315  cp ~/git ~/gitbackup
+  316  cp ~/git ~/desktop/gitbackup
+  318  mkdir git backup
+  321  mkdir gitbackup
+  322  cp ~/git ~/gitbackup
+  324  cp -r ~/git ~/gitbackup
+  325  cp -r /git/ /gitbackup
+  326  cp -r ~/git/ ~/gitbackup
+  327  cp -r ~/desktop/git/ ~/desktop/gitbackup
+  337  mv findpng.txt ~/desktop/git/NewRepository
+  338  mv findhtml.txt ~/desktop/git/NewRepository
+  339  cd git/NewRepository
+  340  git add .
+  341  git commit -m "Added 2 txt files"
+  342  git pull --no-edit
+  343  git push origin master
+  345  git branch
+  346  git checkout master
+  347  git add .
+  348  git commit -m "Added 2 txt files"
+  349  git pull --no-edit
+  350  git push origin master
+  352  cd ~/desktop/git
+  353  git checkout master
+  354  cd ~/desktop/git/NewRepository
+  355  git checkout master
+  356  git add findpng.txt findhtml.txt
+  367  mv findpng.txt ~/desktop/git/NewRepository
+  368  mv findhtml.txt ~/desktop/git/NewRepository
+  369  git checkout master
+  370  cd ~/desktop/git/NewRepository
+  371  git checkout master
+  372  git add .
+  373  git commit -m "Adding txt files"
+  374  git pull --no-edit
+  375  git push origin master
+  383  git clone https://github.com/hgrewal67/NewRepository
+  384  cd ~/desktop/git
+  385  git clone https://github.com/hgrewal67/NewRepository
+  390  git rm -r
+  391  git rm -rf
+  399  git push NewRepository
+  400  git add .
+  401  git commit -m "Removed"
+  402  git pull --no-edit
+  403  git push origin master
+  408  mkdir git
+  409  cp ~/index.html ~/desktop/git
+  410  cd git
+  418  cp style. css js.js ~/Desktop/git
+  419  cp style. csss ~/Desktop/git
+  420  cp style.css js.js ~/desktop/git
+  421  cd git
+  422  git clone https://github.com/hgrewal67/test1
+  435  git add .
+  436  git commit -m "added js img css"
+  437  git push origin master
+  439  cp index1.html index2.html index3.html ~/desktop/git/test1
+  440  git status
+  452  mv style.css ~/desktop/git/test1/css
+  453  mv js.js ~/desktop/git/test1/js
+  455  git add .
+  456  git commit -m "added more files"
+  457  git pull --no-edit
+  458  git push origin master
+  460  git add .
+  461  git commit -m "edited index1"
+  462  git pull --no-edit
+  463  git push origin master
+  464  git branch v0.0.1
+  465  git checkout v0.0.1
+  468  git add .
+  469  git commit -m "removed index2 and 3"
+  470  git push origin v0.0.1
+  471  git checkout master
+  477  cp *.png ~/desktop/git/test1/img
+  478  cd git/test1
+  479  git add.
+  480  git add .
+  481  git commit -m "mvklevndfskv"
+  482  git push origin master
+  483  git checkout v0.0.1
+  484  git merge master
+  485  git merge master -m "hi"
+  486  git branch
+  487  git commit -m "woah"
+  488  git merge master
+  489  git push origin master
+  490  git push origin v0.0.1
+  491  git branch
+  492  git add .
+  493  git commit -m "woahhh"
+  494  git merge master
+  495  git push origin v0.0.1
+  496  git push origin master
+  497  git push origin master
+  498  git push origin v0.0.1
+  523  mkdir git
+  524  cd git
+  526  mkdir git
+  527  cd git
+  528  git clone https://github.com/hgrewal67/Exam
+  529  cp ~/exam/ ~/desktop/git/Exam
+  530  cp -r ~/exam/ ~/desktop/git/Exam
+  533  git add .
+  534  git commit -m "new changes"
+  535  git push origin master
+  543  cd ~/desktop/git/Exam
+  544  git branch v2.0
+  546  git checkout 2.0
+  548  git checkout v2.0
+  549  git push origin v2.0
+  550  git checkout master
+  552  git add .
+  553  git commit -m "added script"
+  554  git push origin master
+  555  git checkout v2.0
+  556  git merge master
+  557  git push origin v2.0
+  559  git branch v3.0
+  561  git checkout v3.0
+  562  git push origin v3.0
+  563  git checkout master
+  565  git add .
+  566  git commit -m "EDIT"
+  567  git push origin master
+  568  git checkout v3.0
+  569  git merge master
+  570  git push origin v3.0
+  572  git checkout master
+  578  history | grep "*git*" > history.txt
+  579  history | grep "git" > history.txt
